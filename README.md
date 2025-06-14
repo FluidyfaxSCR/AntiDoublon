@@ -1,5 +1,3 @@
-# AntiDoublon
-
 # Français
 
 AntiDoublon 🧹
