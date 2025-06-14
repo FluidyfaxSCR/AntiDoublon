@@ -1,5 +1,7 @@
 # AntiDoublon
 
+# Français
+
 AntiDoublon 🧹
 AntiDoublon est un outil simple et efficace permettant de détecter et
 supprimer automatiquement les doublons dans différents types de fichiers.
@@ -24,7 +26,8 @@ Lance AntiDoublon.
 
 Le tool détecte et nettoie les doublons en un clic.
 
----------------------------------------------------------------------------------------
+# Anglais
+
 AntiDoublon 🧹
 AntiDoublon is a simple and efficient tool designed to detect and remove duplicate lines from files. Ideal for developers, analysts, and anyone working with large datasets or repetitive logs.
 
