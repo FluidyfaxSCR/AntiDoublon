@@ -1,3 +1,5 @@
+# AntiDoublon
+
 AntiDoublon 🧹
 AntiDoublon est un outil simple et efficace permettant de détecter et
 supprimer automatiquement les doublons dans différents types de fichiers.
@@ -43,5 +45,3 @@ Place your files in a folder or specify a single file.
 Run AntiDoublon.
 
 The tool will detect and clean duplicates automatically.
-
-# AntiDoublon
