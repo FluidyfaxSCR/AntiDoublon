@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo.png" alt="AntiDoublon Logo" width="700"/>
+  <img src="logo.png" alt="AntiDoublon Logo" width="400"/>
 </p>
 
 
