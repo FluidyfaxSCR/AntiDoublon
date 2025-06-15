@@ -1,3 +1,8 @@
+<p align="center">
+  <img src="logo.png" alt="AntiDoublon Logo" width="500"/>
+</p>
+
+
 # Français
 
 AntiDoublon 🧹
